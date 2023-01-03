@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\KinectScripts\Scripts\ColorSourceManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GoalieAI.cs" Line="52" Column="65" />
+      <File FileName="Assets\KinectScripts\Scripts\BodySourceManager.cs" Line="3" Column="1" />
+      <File FileName="Assets\KinectScripts\Scripts\ColorSourceManager.cs" Line="15" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
